@@ -35,7 +35,7 @@ Imports:
     Biobase,
     FlowSOM(>= 1.4.0),
     RANN(>= 2.5),
-    Rphenograph,
+    #Rphenograph,
     Rtsne,
     VGAM,
     colourpicker,
